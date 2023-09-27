@@ -18,10 +18,19 @@ _Här är en text i kursiv._
 2. Topptura
 3. Köra skoter
 
+##### Toijkos bästa kompisar heter:
+* Lumi
+* Vilde
+* Sally
+* Lex
+* Aramis
+* Ted
+* Keszo
+
 
 Vi kan göra olika storlekar för överskrifter, de är liknande från HTML med storlek 1-6 där 1 är störst och 6 är minst. I markdown använder vi antal brädgårds istället för h1 till h6. 
 
-#### Detta är storlek 4
+
 ##### Detta är storlek 5
 ###### Detta är storlek 6
 
