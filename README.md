@@ -7,6 +7,12 @@
   *  Skapa ett Github-konto
   *  Skapa två olika repos med två olika README.md-filer
 
+>I denna README.md-fil finns lite olika sätt att använda markdown-språk.  
+>Det kan vara lite klurigt med markdown men det är roligt att lära sig  
+>och ju mer man håller på med det,  
+>desto lättare blir det.  
+
+
 ### För att göra en text kursiv eller fet använder vi asteriks eller understreck 
 
 _Här är en text i kursiv._ 
@@ -27,37 +33,9 @@ _Här är en text i kursiv._
 * Ted
 * Keszo
 
+###### Det finns 6 stycken olika storlekar på överskrifter, detta är den minsta.
 
-Vi kan göra olika storlekar för överskrifter, de är liknande från HTML med storlek 1-6 där 1 är störst och 6 är minst. I markdown använder vi antal brädgårds istället för h1 till h6. 
 
-
-##### Detta är storlek 5
-###### Detta är storlek 6
-
-Såhär kan en punkt-lista se ut:
-
-* Kliva upp när klockan ringer
-* Gå en promenad med hunden
-* Äta frukost
-* Borsta tänderna
-
-För att göra en nästlad lista lägger vi till ett extra blankspace före och efter asteriksen.  
-Ett exempel på en nästlad lista:
-
-* Vinter
-  *  Skidåkning
-  *  Topptur
-  *  Längdåkning
-* Sommar
-  *  Cykla downhill
-  *  Stigcykling
-  *  Löpning
-
- Här är en lista med siffror:
-
- 1. Subaru  
- 2. Volvo  
- 3. Audi
 
 Något som är lite klurigt i markdown är att göra radbrytningar.  
 För att göra radbryt lägger vi två blankspace efter ordet vi vill göra en radbrytning efter.  
