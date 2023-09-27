@@ -5,7 +5,7 @@
 * Moment 3 består utav 3 uppgiftsdelar:
   *  En rapport
   *  Skapa ett Github-konto
-  *  Skapa två olika repos med två olika README.md-filer
+  *  Skapa två olika repos med varsin README.md-fil
 
 >I denna README.md-fil finns lite olika sätt att använda markdown-språk.  
 >Det kan vara lite klurigt med markdown men det är roligt att lära sig  
@@ -33,23 +33,6 @@ _Här är en text i kursiv._
 * Ted
 * Keszo
 
-###### Det finns 6 stycken olika storlekar på överskrifter, detta är den minsta.
-
-
-
-Något som är lite klurigt i markdown är att göra radbrytningar.  
-För att göra radbryt lägger vi två blankspace efter ordet vi vill göra en radbrytning efter.  
-
-Här är en helt ny paragraf, det gör vi genom att göra två blankspace och trycka enter två gånger.  
-
->
->Såhär gör vi för att göra
->ett blockquote
-
-Citatbreak
-
->Det är ganska fint och så
-
-Nedan är en bild inlagd i inline-style. Denna är tagen av Niclas Vesterfjell, 2014.
+###### Nedan är en bild inlagd i inline-style. Denna är tagen av Niclas Vesterfjell, 2014.
 
 ![Downhillcykling i Åre](https://jht.se/wp-content/uploads/elementor/thumbs/5_Niclas_Vestefjell__2014_Downhill.klar_-ntcpc1y342plu8ik33rrn7o790e4tp2u4gw1nf9opk.jpg)
