@@ -44,3 +44,10 @@ Ett exempel på en nästlad lista:
  1. Subaru  
  2. Volvo  
  3. Audi  
+
+Något jag tycker är lite svårt med markdown är att göra radbrytningar.  
+
+Blev detta rätt nu?  
+
+Jag förstår inte helt och håller när man ska använda enter och blankspace,  
+man ser ju inte när man tryckt mellanslag.
