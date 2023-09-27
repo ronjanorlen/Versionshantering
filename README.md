@@ -1,6 +1,18 @@
 # Moment 3 JavaScript, versionshantering.
 
-### Beskrivning av uppgift. 
+## Beskrivning av uppgift. 
+
+* Moment 3 består utav 3 uppgiftsdelar:
+  *  En rapport
+  *  Skapa ett Github-konto
+  *  Skapa två olika repos med två olika README.md-filer
+
+### För att göra en text kursiv eller fet använder vi asteriks eller understreck 
+
+_Här är en text i kursiv._ 
+
+**Här är en text i fet stil.**
+
 
 I detta moment ska vi lära oss om versionshantering samt hur vi använder Git och Github. Det ingår även att skriva en rapport med svar på frågor som vi fått tilldelat från våra kursansvariga. 
 
