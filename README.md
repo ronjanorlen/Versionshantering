@@ -38,3 +38,9 @@ Ett exempel på en nästlad lista:
   *  Cykla downhill
   *  Stigcykling
   *  Löpning
+
+ Här är en lista med siffror:
+
+ 1. Subaru  
+ 2. Volvo  
+ 3. Audi  
