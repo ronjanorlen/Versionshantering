@@ -21,4 +21,9 @@ Vi kan göra olika storlekar för överskrifter, de är liknande från HTML med 
 ##### Detta är storlek 5
 ###### Detta är storlek 6
 
+Såhär kan en punkt-lista se ut:
 
+* Kliva upp när klockan ringer
+* Gå en promenad med hunden
+* Äta frukost
+* Borsta tänderna
