@@ -49,7 +49,7 @@ Ett exempel på en nästlad lista:
 Något som är lite klurigt i markdown är att göra radbrytningar.  
 För att göra radbryt lägger vi två blankspace efter ordet vi vill göra en radbrytning efter.  
 
-Här är en helt ny paragraf.  
+Här är en helt ny paragraf, det gör vi genom att göra två blankspace och trycka enter två gånger.  
 
 >
 >Såhär gör vi för att göra
@@ -58,3 +58,7 @@ Här är en helt ny paragraf.
 Citatbreak
 
 >Det är ganska fint och så
+
+Nedan är en bild inlagd i inline-style. Denna är tagen av Niclas Vesterfjell, 2014.
+
+![Downhillcykling i Åre](https://jht.se/wp-content/uploads/elementor/thumbs/5_Niclas_Vestefjell__2014_Downhill.klar_-ntcpc1y342plu8ik33rrn7o790e4tp2u4gw1nf9opk.jpg)
