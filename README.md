@@ -6,7 +6,7 @@ I detta moment ska vi lära oss om versionshantering samt hur vi använder Git o
 
 Vi får öva på att använda oss utav markdown, här nedan finns några exempel på hur man kan använda detta i sina projekt. 
 
-För att göra en text eller ord fet/bold så använder vi oss utav två stycken asteriks på vardera sida om det vi vill poängtera.
+För att göra en text eller ord fet/bold så använder vi oss utav två stycken asterisks på vardera sida om det vi vill poängtera.
 **Detta är en fet text** 
 
 För att göra en text i kursiv använder vi oss utav ett understreck på vardera sida av ord/en. 
@@ -27,3 +27,10 @@ Såhär kan en punkt-lista se ut:
 * Gå en promenad med hunden
 * Äta frukost
 * Borsta tänderna
+
+Ett exempel på en nästlad lista:
+
+* Vinter
+  *  Skidåkning
+  *  Topptur
+  *  Längdåkning
