@@ -34,3 +34,7 @@ Ett exempel på en nästlad lista:
   *  Skidåkning
   *  Topptur
   *  Längdåkning
+* Sommar
+  *  Cykla downhill
+  *  Stigcykling
+  *  Löpning
