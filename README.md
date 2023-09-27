@@ -6,10 +6,10 @@ I detta moment ska vi lära oss om versionshantering samt hur vi använder Git o
 
 Vi får öva på att använda oss utav markdown, här nedan finns några exempel på hur man kan använda detta i sina projekt. 
 
-För att göra en text eller ord fet/bold så använder vi oss utav två stycken asterisks på vardera sida om det vi vill poängtera.
+För att göra en text eller ord fet/bold så använder vi oss utav två stycken asterisks på vardera sida om det vi vill poängtera.  
 **Detta är en fet text** 
 
-För att göra en text i kursiv använder vi oss utav ett understreck på vardera sida av ord/en. 
+För att göra en text i kursiv använder vi oss utav ett understreck på vardera sida av ord/en.  
 _Såhär gör man en text kursiv_
 
 Vi kan göra olika storlekar för överskrifter, de är liknande från HTML med storlek 1-6 där 1 är störst och 6 är minst. I markdown använder vi antal brädgårds istället för h1 till h6. 
@@ -28,6 +28,7 @@ Såhär kan en punkt-lista se ut:
 * Äta frukost
 * Borsta tänderna
 
+För att göra en nästlad lista lägger vi till ett extra blankspace före och efter asteriksen.  
 Ett exempel på en nästlad lista:
 
 * Vinter
@@ -45,9 +46,11 @@ Ett exempel på en nästlad lista:
  2. Volvo  
  3. Audi  
 
-Något jag tycker är lite svårt med markdown är att göra radbrytningar.  
 
-Blev detta rätt nu?  
 
-Jag förstår inte helt och håller när man ska använda enter och blankspace,  
-man ser ju inte när man tryckt mellanslag.
+>Såhär gör vi för att göra
+>ett blockquote
+
+Citatbreak
+
+>Det är ganska fint och så
