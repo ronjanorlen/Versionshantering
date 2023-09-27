@@ -49,9 +49,9 @@ Ett exempel på en nästlad lista:
 Något som är lite klurigt i markdown är att göra radbrytningar.  
 För att göra radbryt lägger vi två blankspace efter ordet vi vill göra en radbrytning efter.  
 
-Här är en helt ny paragraf. Det gör vi genom att lägga till två blankspace och trycker enter två gånger.  
+Här är en helt ny paragraf.  
 
-
+>
 >Såhär gör vi för att göra
 >ett blockquote
 
