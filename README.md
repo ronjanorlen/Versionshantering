@@ -44,7 +44,10 @@ Ett exempel på en nästlad lista:
 
  1. Subaru  
  2. Volvo  
- 3. Audi  
+ 3. Audi
+
+Något som är lite klurigt i markdown är att göra radbrytningar.  
+För att göra en helt ny paragraf lägger vi två blankspace efter ordet vi vill göra en radbrytning efter.
 
 
 
