@@ -7,7 +7,7 @@
   *  Skapa ett Github-konto
   *  Skapa två olika repos med varsin README.md-fil
 
->I denna README.md-fil finns lite olika sätt att använda markdown-språk.  
+>I denna README.md-fil demonstrerar jag lite olika sätt att använda markdown-språk.  
 >Det kan vara lite klurigt med markdown men det är roligt att lära sig  
 >och ju mer man håller på med det,  
 >desto lättare blir det.  
@@ -33,6 +33,6 @@ _Här är en text i kursiv._
 * Ted
 * Keszo
 
-###### Nedan är en bild inlagd i inline-style. Bilden är tagen utav mig, Ronja Norlén 2022-03-26.
+###### Nedan är en bild inlagd i inline-style. Bilden är tagen utav mig, Ronja Norlén, 2022-03-26.
 
 ![Längdskidåkning i Ullådalen](https://studenter.miun.se/~rono2300/dt057g/moment3.2/ski.JPG)
