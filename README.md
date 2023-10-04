@@ -33,6 +33,6 @@ _Här är en text i kursiv._
 * Ted
 * Keszo
 
-###### Nedan är en bild inlagd i inline-style. Denna är tagen av Niclas Vesterfjell, 2014.
+###### Nedan är en bild inlagd i inline-style. Bilden är tagen utav mig, Ronja Norlén 2022-03-26.
 
-![Downhillcykling i Åre](https://jht.se/wp-content/uploads/elementor/thumbs/5_Niclas_Vestefjell__2014_Downhill.klar_-ntcpc1y342plu8ik33rrn7o790e4tp2u4gw1nf9opk.jpg)
+![Längdskidåkning i Ullådalen](https://studenter.miun.se/~rono2300/dt057g/moment3.2/ski.JPG)
